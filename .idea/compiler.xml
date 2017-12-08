@@ -26,8 +26,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="log-test" target="1.5" />
-      <module name="springboot-log-test" target="1.5" />
+      <module name="log-test" target="1.8" />
+      <module name="springboot-log-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
